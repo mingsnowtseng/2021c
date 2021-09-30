@@ -13,7 +13,7 @@ int main()
     printf("Hello World" )
 }:
 ```
-# 第02週
+# 第03週  9/30
 ![week03-1](https://user-images.githubusercontent.com/91250404/135428288-b5cb675b-6c6f-4466-a946-475d07df7c53.PNG)
 ![week03-2](https://user-images.githubusercontent.com/91250404/135428297-621f9c20-56ee-4997-a6cb-a99e1c1087d8.PNG)
 ![week03-3](https://user-images.githubusercontent.com/91250404/135428302-5af2fdee-286f-43cf-afcc-86c60f3d1939.PNG)

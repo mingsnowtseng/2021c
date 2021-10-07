@@ -54,7 +54,7 @@ int main()
 	else printf("D");
 }
 
-\\ 另類成績判斷 (if)
+\\ 另類成績判斷 (if 和 &&並且) 
 #include <stdio.h>
 int main()
 {

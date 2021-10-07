@@ -22,6 +22,7 @@ int main()
 
 #第04週 10/7
 
+##基本加減, 總格數(%格數d)
 ```C
 #include <stdio.h>
 int main()
@@ -31,6 +32,7 @@ int main()
     printf("%5d\n",a+b);
 }
 
+##浮點數 (%f)
 ```C
 #include <stdio.h>
 int main()
@@ -42,6 +44,7 @@ int main()
     printf("%.2f\n", a);
 }
 
+成績判斷 (if)
 ```C
 #include <stdio.h>
 int main()

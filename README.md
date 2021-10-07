@@ -21,7 +21,7 @@ int main()
 # 第04週 10/7
 
 ```C
-## 基本加減, 總格數(%格數d)
+# 基本加減, 總格數(%格數d)
 #include <stdio.h>
 int main()
 {
@@ -31,7 +31,7 @@ int main()
 }
 
 
-## 浮點數 (%f)
+# 浮點數 (%f)
 ```C
 #include <stdio.h>
 int main()
@@ -44,7 +44,7 @@ int main()
 }
 
 
-## 成績判斷 (if)
+# 成績判斷 (if)
 ```C
 #include <stdio.h>
 int main()

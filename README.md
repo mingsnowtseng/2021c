@@ -1,7 +1,7 @@
 # 2021c
 這是我在資傳一甲的程式的專案倉庫
 
-# 第01週
+# 第02週
 
 ```C
 #include <stdio.h>
@@ -19,3 +19,43 @@ int main()
 ![week03-3](https://user-images.githubusercontent.com/91250404/135428302-5af2fdee-286f-43cf-afcc-86c60f3d1939.PNG)
 ![week03-4](https://user-images.githubusercontent.com/91250404/135428306-a8943a62-86df-4504-b805-8b24ee43e510.PNG)
 ![week03-5](https://user-images.githubusercontent.com/91250404/135428312-e706c11e-5437-4bee-8ed5-fb0aaec1022a.PNG)
+
+#第04週 10/7
+
+```C
+#include <stdio.h>
+int main()
+{
+    int a=123,b=10;
+    printf("%d\n",a+b);
+    printf("%5d\n",a+b);
+}
+
+```C
+#include <stdio.h>
+int main()
+{
+    ///int a,b;
+    float  a=3.14159;
+    double b=3.14159;
+    printf("%f\n", a);
+    printf("%.2f\n", a);
+}
+
+```C
+#include <stdio.h>
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	if(n>=90) printf("A+");
+	else if(n>=80) printf("A");
+	else if(n>=70) printf("B");
+	else if(n>=60) printf("C");
+	else printf("D");
+}
+
+![week04-1](https://user-images.githubusercontent.com/91250404/136350196-d9f5f23f-db88-4756-ab2c-3db7d38daa8e.PNG)
+![week04-2 (1)](https://user-images.githubusercontent.com/91250404/136350211-01a59cfb-69e4-4643-b7e3-ace27e3b44fe.PNG)
+![week04-3](https://user-images.githubusercontent.com/91250404/136350221-818351d9-59bf-4430-8c46-75a98f7e739d.PNG)
+

@@ -18,10 +18,10 @@ int main()
 ![week03-4](https://user-images.githubusercontent.com/91250404/135428306-a8943a62-86df-4504-b805-8b24ee43e510.PNG)
 ![week03-5](https://user-images.githubusercontent.com/91250404/135428312-e706c11e-5437-4bee-8ed5-fb0aaec1022a.PNG)
 
-#第04週 10/7
+# 第04週 10/7
 
 ```C
-\\基本加減, 總格數(%格數d)
+## 基本加減, 總格數(%格數d)
 #include <stdio.h>
 int main()
 {
@@ -31,7 +31,7 @@ int main()
 }
 
 
-\\浮點數 (%f)
+## 浮點數 (%f)
 ```C
 #include <stdio.h>
 int main()
@@ -44,7 +44,7 @@ int main()
 }
 
 
-\\成績判斷 (if)
+## 成績判斷 (if)
 ```C
 #include <stdio.h>
 int main()

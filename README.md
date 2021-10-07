@@ -32,6 +32,7 @@ int main()
     printf("%5d\n",a+b);
 }
 
+
 ##浮點數 (%f)
 ```C
 #include <stdio.h>
@@ -43,6 +44,7 @@ int main()
     printf("%f\n", a);
     printf("%.2f\n", a);
 }
+
 
 ##成績判斷 (if)
 ```C
@@ -57,6 +59,7 @@ int main()
 	else if(n>=60) printf("C");
 	else printf("D");
 }
+
 
 ![week04-1](https://user-images.githubusercontent.com/91250404/136350196-d9f5f23f-db88-4756-ab2c-3db7d38daa8e.PNG)
 ![week04-2 (1)](https://user-images.githubusercontent.com/91250404/136350211-01a59cfb-69e4-4643-b7e3-ace27e3b44fe.PNG)

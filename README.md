@@ -59,9 +59,9 @@ int main()
 	else if(n>=60) printf("C");
 	else printf("D");
 }
+![week04-1](https://user-images.githubusercontent.com/91250404/136351146-3afb2387-86dc-4079-9917-ef50c549dbe8.PNG)
+![week04-2](https://user-images.githubusercontent.com/91250404/136351151-f3ffce4b-4006-4eab-843f-644cffe54a6c.PNG)
+![week04-3](https://user-images.githubusercontent.com/91250404/136351178-5f6cc046-4b17-4735-825d-9b98d008e19f.PNG)
 
 
-![week04-1](https://user-images.githubusercontent.com/91250404/136350196-d9f5f23f-db88-4756-ab2c-3db7d38daa8e.PNG)
-![week04-2 (1)](https://user-images.githubusercontent.com/91250404/136350211-01a59cfb-69e4-4643-b7e3-ace27e3b44fe.PNG)
-![week04-3](https://user-images.githubusercontent.com/91250404/136350221-818351d9-59bf-4430-8c46-75a98f7e739d.PNG)
 

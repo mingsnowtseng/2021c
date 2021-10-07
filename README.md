@@ -44,7 +44,7 @@ int main()
     printf("%.2f\n", a);
 }
 
-成績判斷 (if)
+##成績判斷 (if)
 ```C
 #include <stdio.h>
 int main()

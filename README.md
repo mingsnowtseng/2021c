@@ -31,7 +31,6 @@ int main()
 }
 
 \\浮點數 (%f)
-```C
 #include <stdio.h>
 int main()
 {
@@ -43,7 +42,6 @@ int main()
 }
  
 \\ 成績判斷 (if)
-```C
 #include <stdio.h>
 int main()
 {
@@ -57,7 +55,6 @@ int main()
 }
 
 \\ 另類成績判斷 (if)
-```C
 #include <stdio.h>
 int main()
 {

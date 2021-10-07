@@ -30,9 +30,6 @@ int main()
     printf("%5d\n",a+b);
 }
 
-
-# 
-
 \\浮點數 (%f)
 ```C
 #include <stdio.h>
@@ -44,8 +41,7 @@ int main()
     printf("%f\n", a);
     printf("%.2f\n", a);
 }
-
-# 
+ 
 \\ 成績判斷 (if)
 ```C
 #include <stdio.h>
@@ -58,4 +54,18 @@ int main()
 	else if(n>=70) printf("B");
 	else if(n>=60) printf("C");
 	else printf("D");
+}
+
+\\ 另類成績判斷 (if)
+```C
+#include <stdio.h>
+int main()
+{
+	int n;
+	scanf("%d", &n);
+	if (n<=100 && n>=90) printf("A+");
+	if (n<=89 && n>=80) printf("A");
+	if (n<=79 && n>=70) printf("B");
+	if (n<=69 && n>=60) printf("C");
+	if (n<=59) printf("D");
 }

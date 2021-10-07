@@ -22,8 +22,8 @@ int main()
 
 #第04週 10/7
 
-##基本加減, 總格數(%格數d)
 ```C
+\\基本加減, 總格數(%格數d)
 #include <stdio.h>
 int main()
 {

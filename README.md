@@ -11,7 +11,7 @@ int main()
     printf( "Hello World/n" );
 }
     printf("Hello World" )
-}:
+}
 ```
 # 第03週  9/30
 ![week03-1](https://user-images.githubusercontent.com/91250404/135428288-b5cb675b-6c6f-4466-a946-475d07df7c53.PNG)
